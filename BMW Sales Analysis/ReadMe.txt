@@ -1,4 +1,5 @@
 # 🚗 BMW Sales Data Analysis (2010–2024) — Power BI Project
+![BMW Power BI Dashboard](https://github.com/OluwaEmmanuel/BMW-Sales-Analysis-PowerBI/blob/main/BMW%20Sales%20Analysis/%7B7C110577-9B61-425A-B1CC-6282B28EF3DB%7D.png)
 
 ## 📘 Overview
 This project analyzes **BMW sales performance from 2010 to 2024** using Power BI.  
@@ -44,3 +45,4 @@ The goal was to uncover insights on sales trends, top-performing models, and reg
 - 📧 emmanuelabraham356@gmail.com
 
 > *Turning raw data into real business stories — one dashboard at a time.*
+
